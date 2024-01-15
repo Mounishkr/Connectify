@@ -1,0 +1,215 @@
+{
+  "project_info": {
+    "project_number": "790799966470",
+    "firebase_url": "https://connectify-8ecad-default-rtdb.firebaseio.com",
+    "project_id": "connectify-8ecad",
+    "storage_bucket": "connectify-8ecad.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:790799966470:android:628586b871bfc26410fe87",
+        "android_client_info": {
+          "package_name": "com.flutterflow.sniffsocial"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "790799966470-mb8rloeuqfgf9d4pea9noscio3oou9m1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyARzJgc5_pyLHyv8qNeq-At7sV6sPZ_iKw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "790799966470-mb8rloeuqfgf9d4pea9noscio3oou9m1.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "790799966470-1u08b9nu2qnf3ibgg39pbbn8df9nqhcu.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.mycompany.phoneverify"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:790799966470:android:23551a161a4db88c10fe87",
+        "android_client_info": {
+          "package_name": "com.mycompany.connectify"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "790799966470-5e5o40tp24aibtjb2tbjj15q04pltoa9.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.mycompany.connectify",
+            "certificate_hash": "9bbb3186b2189ef16d8f272bdab59362c395cbb4"
+          }
+        },
+        {
+          "client_id": "790799966470-mb8rloeuqfgf9d4pea9noscio3oou9m1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyARzJgc5_pyLHyv8qNeq-At7sV6sPZ_iKw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "790799966470-mb8rloeuqfgf9d4pea9noscio3oou9m1.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "790799966470-1u08b9nu2qnf3ibgg39pbbn8df9nqhcu.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.mycompany.phoneverify"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:790799966470:android:04b98952a9fb03dd10fe87",
+        "android_client_info": {
+          "package_name": "com.mycompany.connectifyvers3"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "790799966470-gceqn577rp2sjjg7lrivb0hr1uh66kbv.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.mycompany.connectifyvers3",
+            "certificate_hash": "9bbb3186b2189ef16d8f272bdab59362c395cbb4"
+          }
+        },
+        {
+          "client_id": "790799966470-mb8rloeuqfgf9d4pea9noscio3oou9m1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyARzJgc5_pyLHyv8qNeq-At7sV6sPZ_iKw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "790799966470-mb8rloeuqfgf9d4pea9noscio3oou9m1.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "790799966470-1u08b9nu2qnf3ibgg39pbbn8df9nqhcu.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.mycompany.phoneverify"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:790799966470:android:13daee380201c2bb10fe87",
+        "android_client_info": {
+          "package_name": "com.mycompany.phoneverify"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "790799966470-0curjvnrr9vc30s9iqhffd65260up839.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.mycompany.phoneverify",
+            "certificate_hash": "9bbb3186b2189ef16d8f272bdab59362c395cbb4"
+          }
+        },
+        {
+          "client_id": "790799966470-mb8rloeuqfgf9d4pea9noscio3oou9m1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyARzJgc5_pyLHyv8qNeq-At7sV6sPZ_iKw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "790799966470-mb8rloeuqfgf9d4pea9noscio3oou9m1.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "790799966470-1u08b9nu2qnf3ibgg39pbbn8df9nqhcu.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.mycompany.phoneverify"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:790799966470:android:8812dd4803ea2ce310fe87",
+        "android_client_info": {
+          "package_name": "com.mycompany.travelapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "790799966470-mb8rloeuqfgf9d4pea9noscio3oou9m1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyARzJgc5_pyLHyv8qNeq-At7sV6sPZ_iKw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "790799966470-mb8rloeuqfgf9d4pea9noscio3oou9m1.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "790799966470-1u08b9nu2qnf3ibgg39pbbn8df9nqhcu.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.mycompany.phoneverify"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
